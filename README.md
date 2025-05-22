@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">- 🔭 I’m working as a backend engineer<br>- 📚 I'm currently learning as much as I can<br>- ⚡ In my free time I like to work on cars and I also DJ!</p>
+<p align="center">- 🔭 I’m currently working as a backend engineer<br>- 📚 Always a student<br>- ⚡ In my free time I like to work on cars and I also DJ!</p>
 
 ###
 
